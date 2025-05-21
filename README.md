@@ -31,3 +31,8 @@ The app uses **RecyclerView** to efficiently present a scrollable list of charac
 
 ## ✨ Demo
 > Simple demonstration of RecyclerView + SearchView + Toast functionality in Android Java.
+> 
+## 👩‍💻 Created By
+
+- **Oriya Even Chen - 207810482**
+- **Noa Lugashi - 323835900**
